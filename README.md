@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+This project and README file was created on July 23, 2019.  _Started on 7/23, finished some time before 7/30._
 
 ### Project Title
 Replace the Project Title
