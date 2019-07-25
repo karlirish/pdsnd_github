@@ -43,5 +43,5 @@ washington.csv
 _The .csv files have not been pushed to GitHub because they are large files._
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used **this** webpage to ["master" Markdown.](https://guides.github.com/features/mastering-markdown/#examples)
 
