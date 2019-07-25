@@ -139,7 +139,7 @@ def user_stats(df):
         gender_count = df['Gender'].value_counts()
         print("Counts of gender:", gender_count)
     except KeyError:
-        print("Data for gender is not available for analysis.")
+        print("Gender data is not available.")
 
     try:
         min_dob = df['Birth Year'].min()
@@ -149,7 +149,7 @@ def user_stats(df):
         mode_dob = df['Birth Year'].mode()[0]
         print("The most common year of birth for a rider:", mode_dob)
     except KeyError:
-        print("Data for birth year is not available for analysis.")
+        print("Birth year data is not available.")
         
 
     print("\nThis took %s seconds." % (time.time() - start_time))
