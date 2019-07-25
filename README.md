@@ -35,7 +35,12 @@ _The retrieval of information for each section is timed._
 Once the statistics are displayed the user then has the option of viewing the raw data in five line increments. 
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+
+_The .csv files have not been pushed to GitHub because they are large files._
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
