@@ -35,10 +35,10 @@ _The retrieval of information for each section is timed._
 Once the statistics are displayed the user then has the option of viewing the raw data in five line increments. 
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+*  bikeshare.py
+*  chicago.csv
+*  new_york_city.csv
+*  washington.csv
 
 _The .csv files have not been pushed to GitHub because they are large files._
 
